@@ -9,4 +9,4 @@ Information from young athletes aged between 12 to 22 years old was gathered by 
 ## Graph No. 1 description
 
 Graphical representation of the distribution of respondents by gender, n=130.Out of 130 respondents, the graphical representation of their distribution by gender shows that there were 79 women (61%) and 51 men (39%).
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Rozdelenie%20respondentov%20podla%20pohlavia.png)

@@ -41,3 +41,11 @@ Graphical representation of the dependence of eating disorders among athletes on
 - We hypothesize that longer engagement in sports influences the risk of developing eating disorders.
 - We hypothesize that there is no difference in BMI values between men and women.
 - We hypothesize that there is no difference in BMI values among respondents based on the type of sport they engage in.
+
+## Results:
+- In the sample (n=130) of adolescent athletes, we confirmed a statistically significant difference in the prevalence of eating disorders in aesthetic-coordination sports compared to other types of sports (p=0.000).
+- In the sample (n=130) of adolescent athletes, we confirmed that the ratio of boys and girls at risk for eating disorders and without risk for eating disorders differs (p=0.030).
+- In the sample (n=130) of adolescent athletes, we confirmed that the difference in the representation of athletes with increased risk for eating disorders and athletes without increased risk for eating disorders between age categories is not statistically significant (p=0.639).
+- In the sample (n=130) of adolescent athletes, we confirmed that the duration of engagement in sports has a statistically significant relationship with the risk of developing eating disorders in adolescent athletes (p=0.349).
+- In the sample (n=130) of adolescent athletes, we confirmed that there is no difference in BMI values between men and women (p=0.15).
+- In the sample (n=130) of adolescent athletes, we confirmed a significant difference in BMI values depending on the type of sport practiced (p=0.004).

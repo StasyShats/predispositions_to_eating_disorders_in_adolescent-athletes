@@ -16,7 +16,7 @@ Graphical representation of the distribution of respondents by gender, n=130.Out
 
 Graphical representation of the distribution of respondents by gender and age, n=130.The survey was conducted on different age groups. The first group consisted of 68 male and female respondents aged 12 to 17. The second group consisted of 62 male and female respondents aged 17 to 22. This allowed for a comparison of results between the different age groups.
 
-![alt text]()
+![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Rozdelenie%20vekových%20skup%C3%ADn%20podľa%20pohlavia.png)
 
 ## Graph No. 3 description
 

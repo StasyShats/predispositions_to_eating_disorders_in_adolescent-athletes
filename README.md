@@ -28,8 +28,8 @@ Graphical representation of the distribution of BMI (Body Mass Index) among the 
 
 Graphical representation of the dependence of eating disorders among athletes on individual factors.
 
-![alt text]((https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Pocty%20osob%20s%20rizikom%20PPP%20podla%20dlzky%20sa%20zaobenia%20sportom.png)
+![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Pocty%20osob%20s%20rizikom%20PPP%20podla%20dlzky%20sa%20zaobenia%20sportom.png)
 ![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Pocty%20osob%20s%20rizikom%20PPP%20podla%20podla%20druhu%20vykonabaneho%20sportu.png)
-![alt text]((https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Pocty%20osob%20s%20rizikom%20PPP%20podla%20podla%20pohlavia.png)
+![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Pocty%20osob%20s%20rizikom%20PPP%20podla%20podla%20pohlavia.png)
 ![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Pocty%20osob%20s%20rizikom%20PPP%20podla%20podla%20veku.pn)
 ![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Pocty%20osob%20v%20riziku%20podla%20vekovej%20kategorie%20a%20pohlavia.png)

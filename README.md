@@ -20,6 +20,6 @@ Graphical representation of the distribution of respondents by gender and age, n
 
 ## Graph No. 3 description
 
-Graphical representation of the distribution of respondents by gender and age group.
+raphical representation of the distribution of BMI (Body Mass Index) among the respondents
 
-![alt text]()
+![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Rozdelenie%20BMI.png)

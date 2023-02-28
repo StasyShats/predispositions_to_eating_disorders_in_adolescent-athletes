@@ -33,3 +33,11 @@ Graphical representation of the dependence of eating disorders among athletes on
 ![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Pocty%20osob%20s%20rizikom%20PPP%20podla%20podla%20pohlavia.png)
 ![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Pocty%20osob%20s%20rizikom%20PPP%20podla%20podla%20veku.pn)
 ![alt text](https://github.com/StasyShats/predispositions_to_eating_disorders_in_adolescent-athletes/blob/main/Graphs/Pocty%20osob%20v%20riziku%20podla%20vekovej%20kategorie%20a%20pohlavia.png)
+
+## Hypotheses:
+- We hypothesize that a specific type of sport may represent a risk factor for the occurrence of eating disorders.
+- We hypothesize that girls have a higher risk of predisposition to eating disorders compared to boys.
+- We hypothesize that younger athletes are more exposed to this risk factor than older athletes.
+- We hypothesize that longer engagement in sports influences the risk of developing eating disorders.
+- We hypothesize that there is no difference in BMI values between men and women.
+- We hypothesize that there is no difference in BMI values among respondents based on the type of sport they engage in.
